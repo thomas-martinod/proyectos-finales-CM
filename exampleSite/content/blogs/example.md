@@ -7,7 +7,7 @@ author: "thomas y JuanFer"
 tags:
   - Anteproyecto
   - Grupo 1
-image: /images/post.jpg
+image: /images/pato.jpg
 description: ""
 toc:
 ---
