@@ -1,3 +1,18 @@
+---
+title: "Ejemplo"
+date:
+draft: false
+github_link: "https://github.com/gurusabarish/hugo-profile"
+author: "th"
+tags:
+  - Markdown syntax
+  - Sample
+  - example
+image: /images/post.jpg
+description: ""
+toc:
+---
+
 # Mecánica Clásica
 
 # Proyectos Finales
