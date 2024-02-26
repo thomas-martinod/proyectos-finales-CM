@@ -113,20 +113,20 @@ params:
       enable : true
       showOnScrollUp : true
     menus:
-      disableAbout: false
-      disableExperience: false
-      disableEducation: false
-      disableProjects: false
+      disableAbout: true
+      disableExperience: true
+      disableEducation: true
+      disableProjects: true
       disableAchievements: false
       disableContact: false
 
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    intro: "Este es un pequeño blog humilde sobre..."
+    title: "Mecánica Clásica."
+    subtitle: "Acá se publicarán obras genuinas, desarrolladas por mentes elevadas en las ideologías deterministas."
+    content: "En realidad este es un blog para exponer los proyectos finales desarrollados por los estudiantes de la Universidad EAFIT para la asignatura mecánica clásica."
     image: /images/hero.svg
     bottomImage:
       enable: true
