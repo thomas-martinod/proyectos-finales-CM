@@ -1,22 +1,23 @@
 ---
-title: "Ejemplo"
-date:
+title: "Ejemplo de como publicar en el Blog"
+date: 2024-09-15T22:53:58+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
+github_link: "https://github.com/thomas-martinod/proyectos-finales-CM"
 author: "th"
 tags:
-  - Markdown syntax
-  - Sample
-  - example
+  - Anteproyecto
+  - Grupo 1
 image: /images/post.jpg
 description: ""
 toc:
 ---
 
-# Mecánica Clásica
+# Ejemplo Anteproyecto
 
-# Proyectos Finales
+## Como utilizar la plantilla dentro del blog
 
-## Universidad EAFIT, 2024-1
+## Grupo 1: Thomas Martinod y Juan Fernando Riascos
 
-Hola a todo el mundo! Este es un blog humilde que contiene los trabajos finales de la asignatura Mecánica Clásica dictada en la Universidad EAFIT. Ojalá lo disfruten mucho!
+Hola a todos! Pillen el ejemplo tan claro de como subir una entrada a este blog.
+
+El como escribir matemáticas lo ven en `math.md`, las imágenes, tablas y en general el formato markdown lo ven en `markdown-syntax.md`.
