@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
-languageCode: "en-us"
-title: "Hugo Profile"
+baseURL: "https://master--proyectos-finales-cm-2024.netlify.app/"
+languageCode: "es-col"
+title: "Proyectos Finales Mecánica Clásica 2024"
 theme: hugo-profile
 
 outputs:
