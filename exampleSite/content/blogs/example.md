@@ -7,6 +7,8 @@ author: "thomas y JuanFer"
 tags:
   - Anteproyecto
   - Grupo 1
+  - Péndulo
+  - Ecuaciones de Lagrange
 image: /images/grupo1/pato.jpg
 description: ""
 toc:
@@ -16,7 +18,7 @@ toc:
 
 ## Como utilizar la plantilla dentro del blog
 
-## Grupo 1: Thomas Martinod y Juan Fernando Riascos
+### Grupo 1: Thomas Martinod y Juan Fernando Riascos
 
 Hola a todos! Pillen el ejemplo tan claro de como subir una entrada a este blog.
 
