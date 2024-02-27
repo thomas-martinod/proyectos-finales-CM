@@ -1,6 +1,6 @@
 ---
 title: "Ejemplo de como publicar en el Blog"
-date: 2021-09-15T22:53:58+05:30
+date: 2021-09-15
 draft: false
 github_link: "https://github.com/thomas-martinod/proyectos-finales-CM"
 author: "thomas y JuanFer"
