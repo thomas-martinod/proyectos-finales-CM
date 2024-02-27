@@ -8,7 +8,7 @@ tags:
   - Anteproyecto
   - Grupo 1
   - Péndulo
-  - Ecuaciones de Lagrange
+  - Ecuaciones de Euler-Lagrange
 image: /images/grupo1/pato.jpg
 description: ""
 toc:
