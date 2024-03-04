@@ -9,7 +9,7 @@ tags:
   - Grupo 4
   - Carga puntual en campo EM
 
-image: /images/grupo4/fotomela.png
+image: /images/grupo4/videito.gif
 description: "Trayectoria de dos partículas en un campo EM en el tiempo"
 toc:
 ---
@@ -28,9 +28,9 @@ Independientemente de qué formulación uses, llegarás a las mismas ecuaciones 
 
 El lagrangiano de un sistema se escibe como:
 
-$L=T-V$
+L=T-V
 
-en donde $L$ es el lagrangiano, $T$ la energía cinética y $V$ la energía potencial. 
+en donde L es el lagrangiano, T la energía cinética y V la energía potencial. 
 
 Ahora, una vez que encontremos el lagrangiano 
 
