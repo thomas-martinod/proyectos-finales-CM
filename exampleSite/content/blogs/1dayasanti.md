@@ -19,10 +19,10 @@ toc:
 ![robobaile](/images/grupo5/robobaile.gif)
 
 Para entender la ingeniería detrás de este fascinante robot creado por Boston Dynamics debemos entender que es un pendubot.
-Un pendubot es un sistema de dos barras acopladas entre sí, con una de ellas conectada a un motor. Este es el sistema de equilibrio más básico para un robot bípedo (que tiene mínimo una articulación), analizando el movimiento de este sistema se pueden crear robots capaces de imitar humanos, animales o cualquier cosa que se pueda mover (excepto aves, ellas son una cosa de locos) Checa este link para entender por qué una vaca no puede volar: **N.B.** [vaca aerodinámica](https://vm.tiktok.com/ZMMYN9BKm/). 
+Un pendubot es un sistema de dos barras acopladas entre sí, con una de ellas conectada a un motor. Este es el sistema de equilibrio más básico para un robot bípedo (que tiene mínimo una articulación), analizando el movimiento de este sistema se pueden crear robots capaces de imitar humanos, animales o cualquier cosa que se pueda mover (excepto aves, ellas son una cosa de locos) Checa este link para entender por qué una vaca no puede volar: **[vaca aerodinámica](https://vm.tiktok.com/ZMMYN9BKm/)**. 
 
 Volviendo al tema central del blog, estudiar este sistema no solo sirve para la robótica, es una excelente herramienta para aprender la llamada teoría de control, que es lo que nos permite manejar los brazos robóticos y otras muchas cosas, o incluso convertir el pendubot en un palo de golf:
 
 ![robogolf](/images/grupo5/robogolf.gif)
 
-Ahora ya sabes como funciona un pendubot, en la próxima sección te enseñaremos como analizar este sistema 
+Ahora ya sabes como funciona un pendubot, en la próxima sección te enseñaremos como analizar este sistema. 
