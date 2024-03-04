@@ -9,7 +9,7 @@ tags:
   - Grupo 4
   - Carga puntual en campo EM
 
-image: /images/grupo4/fotomela.png
+image: /images/grupo4/videito.gif
 description: "Trayectoria de dos partículas en un campo EM en el tiempo"
 toc:
 ---
@@ -27,4 +27,12 @@ Para poder modelar el movimiento de una partícula contenida en un campo electro
 Independientemente de qué formulación uses, llegarás a las mismas ecuaciones de movimiento; el truco es que la formulación lagrangiana es mucho más sencilla y facilita el planteamiento para problemas de la física moderna y cuántica. 
 
 El lagrangiano de un sistema se escibe como:
+
+L=T-V
+
+en donde L es el lagrangiano, T la energía cinética y V la energía potencial. 
+
+Ahora, una vez que encontremos el lagrangiano 
+
+
 
