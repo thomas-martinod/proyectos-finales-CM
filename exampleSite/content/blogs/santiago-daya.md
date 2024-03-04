@@ -9,7 +9,7 @@ tags:
   - Grupo 5
   - Pendubot
 
-image: /images/grupo5/pendubotrender.png
+image: /images/grupo5/pendubotrender.gif
 description: "Prefasio a un pendubot"
 toc:
 ---
@@ -18,5 +18,3 @@ toc:
 ### Grupo 5: Dayana Estefanía Carmona Gamarra y Santiago Moncayo Sarria
 
 ¿Quieres entender por qué este robot puede bailar?
-
-image: /images/grupo5/robobaile.gif
