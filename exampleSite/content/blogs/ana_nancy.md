@@ -1,6 +1,6 @@
 ---
 title: "Lagrangiano no relativista y relativista de una carga en un campo electromagnético"
-date: 2021-09-15
+date: 2024-03-04
 draft: false
 github_link: "https://github.com/thomas-martinod/proyectos-finales-CM"
 author: "Ana Sofía Calle y Nancy Burgos Bedoya"
@@ -9,8 +9,8 @@ tags:
   - Grupo 4
   - Carga puntual en campo EM
 
-image: /images/grupo1/pato.jpg
-description: ""
+image: /images/grupo4/fotomela.png
+description: "Trayectoria de dos partículas en un campo EM en el tiempo"
 toc:
 ---
 
@@ -20,6 +20,11 @@ toc:
 
 ### Grupo 4: Ana Sofía Calle y Nancy Burgos Bedoya
 
-Hola a todos! Pillen el ejemplo tan claro de como subir una entrada a este blog.
 
-El como escribir matemáticas lo ven en `math.md`, las imágenes, tablas y en general el formato markdown lo ven en `markdown-syntax.md`.
+TEXTO JUSTIFICACION
+
+Para poder modelar el movimiento de una partícula contenida en un campo electromagnético, se necesita usar una herramienta muy poderosa: ¡La formulación lagrangiana! Recordemos que en física I nos enseñaban a armar un diagrama de fuerzas de un sistema para obtener su ecuación de movimiento. Esto se conoce como la formulación newtoniana, y se enfoca más que todo en las fuerzas que actúan en un sistema. Ahora, para la formulación lagrangiana las ecuaciones se obtienen a partir de las energías del sistema.
+Independientemente de qué formulación uses, llegarás a las mismas ecuaciones de movimiento; el truco es que la formulación lagrangiana es mucho más sencilla y facilita el planteamiento para problemas de la física moderna y cuántica. 
+
+El lagrangiano de un sistema se escibe como:
+
