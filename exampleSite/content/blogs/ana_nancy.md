@@ -28,3 +28,11 @@ Independientemente de qué formulación uses, llegarás a las mismas ecuaciones 
 
 El lagrangiano de un sistema se escibe como:
 
+$L=T-V$
+
+en donde $L$ es el lagrangiano, $T$ la energía cinética y $V$ la energía potencial. 
+
+Ahora, una vez que encontremos el lagrangiano 
+
+
+
