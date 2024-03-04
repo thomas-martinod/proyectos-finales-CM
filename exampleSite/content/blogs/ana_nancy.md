@@ -1,24 +1,24 @@
 ---
-title: "Ejemplo de como publicar en el Blog"
+title: "Lagrangiano no relativista y relativista de una carga en un campo electromagnético"
 date: 2021-09-15
 draft: false
 github_link: "https://github.com/thomas-martinod/proyectos-finales-CM"
-author: "thomas y JuanFer"
+author: "Ana Sofía Calle y Nancy Burgos Bedoya"
 tags:
   - Anteproyecto
-  - Grupo 1
-  - Péndulo
-  - Ecuaciones de Euler-Lagrange
+  - Grupo 4
+  - Carga puntual en campo EM
+
 image: /images/grupo1/pato.jpg
 description: ""
 toc:
 ---
 
-# Ejemplo Anteproyecto
+# Anteproyecto
 
-## Como utilizar la plantilla dentro del blog
+## Formulación lagrangiana no relativista y relativista de una carga q en un campo electromagnético.
 
-### Grupo 1: Thomas Martinod y Juan Fernando Riascos
+### Grupo 4: Ana Sofía Calle y Nancy Burgos Bedoya
 
 Hola a todos! Pillen el ejemplo tan claro de como subir una entrada a este blog.
 
