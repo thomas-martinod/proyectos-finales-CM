@@ -1,13 +1,13 @@
 ---
-title: "Modelo Dinámico Mediante Mecánica Lagrangiana de un Pendubot"
+title: "Modelo Matemático de un Pendubot Mediante Mecánica Lagrangiana"
 date: 2021-09-15
 draft: false
 github_link: "https://github.com/thomas-martinod/proyectos-finales-CM"
-author: "Ana Sofía Calle y Nancy Burgos Bedoya"
+author: "Dayana Estefanía Carmona Gamarra y Moncayo Sarria"
 tags:
   - Anteproyecto
-  - Grupo 4
-  - Carga puntual en campo EM
+  - Grupo 5
+  - Modelo Matemático de un Pendubot Mediante Mecánica Lagrangiana
 
 image: /images/grupo1/pato.jpg
 description: ""
