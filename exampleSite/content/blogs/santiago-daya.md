@@ -9,10 +9,13 @@ tags:
   - Grupo 5
   - Modelo Matemático de un Pendubot Mediante Mecánica Lagrangiana
 
-image: /images/grupo1/pato.jpg
+image: /images/pendubot.png
 description: ""
 toc:
 ---
+# Anteproyecto
+## Modelo Matemático de un Pendubot Mediante Mecánica Lagrangiana
+### Grupo 5: Dayana Estefanía Carmona Gamarra y Santiago Moncayo Sarria
 
 Emoji can be enabled in a Hugo project in a number of ways. :zap:
 
