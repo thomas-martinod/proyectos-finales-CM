@@ -1,6 +1,6 @@
 ---
 title: "Modelo Matemático de un Pendubot Mediante Mecánica Lagrangiana"
-date: 2021-09-15
+date: 2024-03-04
 draft: false
 github_link: "https://github.com/thomas-martinod/proyectos-finales-CM"
 author: "Dayana Estefanía Carmona Gamarra y Santiago Moncayo Sarria"
@@ -13,7 +13,7 @@ image: /images/grupo5/pendubotrender.gif
 description: "Prefasio a un pendubot"
 toc:
 ---
-# Anteproyecto Grupo 5
+# Pendubot
 ## ¿Quieres entender por qué este robot puede bailar?
 
 ![robobaile](/images/grupo5/robobaile.gif)
