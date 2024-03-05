@@ -1,4 +1,5 @@
 
+```
 Write in-line equations with `\\( ... \\)` , like \\( x^n / y \\) . It's easy!
 ```
 
