@@ -8,6 +8,8 @@ tags:
   - Anteproyecto
   - Grupo 4
   - Carga puntual en campo EM
+  -Relativista
+  -Fuerza electromagnética
 
 image: /images/grupo4/videito.gif
 description: "Trayectoria de dos partículas en un campo EM en el tiempo"
@@ -36,3 +38,5 @@ Es posible crear un campo magnético no solo de un imán, sino que también a pa
 Al estudiar el comportamiento de una partícula al atravesar uno de estos campos, podemos describir adecuadamente la fuerza que este campo inevitablemente ejerce sobre ella. Existen muchas maneras de describir matemáticamente la fuerza electromagnética, cuyo estudio nos interesa. En nuestro proyecto nos centraremos en dos casos, su comportamiento general, ¡y su comportamiento relativista! Es decir, cuando las partículas tienen velociadades cercanas a la de la luz, ¡la velocidad máxima alcanzable en todo el universo! Este caso particular trae diferentes implicaciones físicas muy interesantes que se detallarán a medida que se desarrolla nuestro proyecto.
 
 Ahora, para poder modelar el movimiento de una partícula contenida en un campo electromagnético, se necesita usar una herramienta muy poderosa: ¡La formulación lagrangiana! Recordemos que en física I nos enseñaban a armar un diagrama de fuerzas de un sistema simple para obtener sus ecuaciones de movimiento. Esto se conoce como la formulación newtoniana, y se enfoca más que todo en las fuerzas que actúan en un sistema. Ahora, la formulación lagrangiana se basa más que todo en las energías del sistema. Independientemente de qué formulación optes por usar, llegarás a las mismas ecuaciones de movimiento; el truco es que la formulación lagrangiana es mucho más sencilla y facilita el planteamiento para problemas de la física moderna y cuántica. 
+
+Una vez encontremos el lagrangiano, se puede graficar fácilmente las trayectorias de nuestras partículas. Un ejemplo de una trayectoria que puede tomar una carga la puedes ver en el GIF de nuestro proyecto. Es un movimiento inquietante y un tanto elegante, el cual queremos estudiar. ¿No te preguntas, cómo cambiaría la trayectoria a la velocidad de la luz? 
