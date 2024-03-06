@@ -17,3 +17,6 @@ hugo.linux
 
 # Temporary lock file while building
 .hugo_build.lock
+
+# group_9: José Ortiz-Ocampo
+.DS_Store
