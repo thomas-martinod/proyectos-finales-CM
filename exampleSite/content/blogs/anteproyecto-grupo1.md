@@ -15,7 +15,7 @@ toc:
 ---
 
 # El Principio de Fermat y los Caminos de la Luz
-
+s
 ## Introducción
 
 Hoy nos adentraremos en el emocionante mundo de la **óptica** 👁️ (la ciencia que estudia la luz) y descubriremos un principio intrigante llamado el "Principio de Fermat", nombrado en honor al brillante matemático y físico Pierre de Fermat.
