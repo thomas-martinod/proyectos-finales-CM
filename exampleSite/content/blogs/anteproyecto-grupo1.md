@@ -14,8 +14,6 @@ description: ""
 toc:
 ---
 
-# El Principio de Fermat y los Caminos de la Luz
-s
 ## Introducción
 
 Hoy nos adentraremos en el emocionante mundo de la **óptica** 👁️ (la ciencia que estudia la luz) y descubriremos un principio intrigante llamado el "Principio de Fermat", nombrado en honor al brillante matemático y físico Pierre de Fermat.
@@ -26,7 +24,9 @@ La idea de esta pequeña entrada de blog es describir brevemente el proyecto que
 
 Todo parte de el principio de Fermat ¿Qué es exactamente el Principio de Fermat? Bueno, es una idea simple pero poderosa que nos ayuda a entender cómo la luz viaja y se comporta. Imagina que estás en un parque y quieres ir de un punto $A$ a un punto $B$.
 
-<img src="/images/grupo1/multi.jpeg" alt="iman" width="500">
+<p align="center">
+  <img src="/images/grupo1/multi.jpeg" alt="iman" width="500">
+</p>
 
 ¿Cuál es el camino más rápido para llegar allí? Probablemente dirías que el camino más corto es $\Gamma_3$¿verdad?, por eso de que es una línea recta ¡Y estarías en lo correcto!
 
@@ -38,7 +38,9 @@ Ahora, piensa en el índice de refracción como la densidad del bosque para la l
 
 En la imagen a continuación, a la izquierda te presento un material con un índice de refracción más alto que el de la derecha:
 
-<img src="/images/grupo1/indices.jpeg" alt="iman" width="500">
+<p align="center">
+  <img src="/images/grupo1/indices.jpeg" alt="iman" width="500">
+</p>
 
 
 Puedes pensar esto del índice de refracción como una medida de la probabilidad de que la luz se choque con algún átomo, si hay más átomos, o los átomos están más pegados entre sí en el material, ¡es mucho más fácil que la luz se choque!
@@ -63,7 +65,10 @@ $$
 
 Una visualización gráfica de una de estas trayectorias, se enseña a continuación:
 
-<img src="/images/grupo1/circulo.jpeg" alt="iman" width="500">
+<p align="center">
+  <img src="/images/grupo1/circulo.jpeg" alt="iman" width="500">
+</p>
+
 
 (observa que el índice de refracción $n$ disminuye con la altura).
 
