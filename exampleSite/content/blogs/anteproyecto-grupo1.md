@@ -59,14 +59,12 @@ Para ejemplificar, el primer caso que se evaluó en el proyecto es el caso de un
 
 Por poco intuitivo que parezca, para que la luz vaya de un punto $(x_0, y_0)$ a un punto $(x_1, y_1)$, la ecuación que sigue la trayectoria de la luz es un círculo, es decir:
 
-$$
-(x+A)^2 + y^2 = B
-$$
+$$ (x+A)^2 + y^2 = B $$
 
 Una visualización gráfica de una de estas trayectorias, se enseña a continuación:
 
 <p align="center">
-  <img src="/images/grupo1/circulo.jpeg" alt="iman" width="500">
+  <img src="/images/grupo1/circulo.jpeg" alt="iman" width="700">
 </p>
 
 
