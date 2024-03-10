@@ -12,6 +12,7 @@ tags:
 image: /images/grupo1/lights.gif
 description: ""
 toc:
+mathjax: true
 ---
 
 ## Introducción
