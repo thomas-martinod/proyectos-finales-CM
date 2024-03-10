@@ -21,7 +21,7 @@ Hoy nos adentraremos en el emocionante mundo de la **óptica** 👁️ (la cienc
 
 La idea de esta pequeña entrada de blog es describir brevemente el proyecto que se llevará a cabo para la asignatura de Mecánica Clásica en la Universidad EAFIT, que consiste en hallar los caminos de la luz cuando esta se desplaza entre dos puntos.
 
-## Caminos e índice de refracción $n$
+## Caminos e índice de refracción \\(n\\)
 
 Todo parte de el principio de Fermat ¿Qué es exactamente el Principio de Fermat? Bueno, es una idea simple pero poderosa que nos ayuda a entender cómo la luz viaja y se comporta. Imagina que estás en un parque y quieres ir de un punto \\( A\\) a un punto \\( B \\).
 
@@ -31,7 +31,7 @@ Todo parte de el principio de Fermat ¿Qué es exactamente el Principio de Ferma
 
 ¿Cuál es el camino más rápido para llegar allí? Probablemente dirías que el camino más corto es \\(\Gamma_3\\) ¿verdad?, por eso de que es una línea recta ¡Y estarías en lo correcto!
 
-Ahora, digamos que el camino recto, \\(\Gamma_3\\), es una piscina, ¿seguiría siendo el camino más rápido? Sin duda sigue siendo el camino más corto en cuanto a distacia, como bien podrías verificar con un flexómetro, pero en la piscina, nadas (eres más leno nadando 💀) por lo que podrías correr más rápido por uno de los otros caminos antes que nadar por el recto. Es decir, en ambos medios tienes velocidades diferentes y el parámetro que afecta esto se llama el **índice de refracción** del material \\( n\\).
+Ahora, digamos que el camino recto, \\(\Gamma_3\\), es una piscina, ¿seguiría siendo el camino más rápido? Sin duda sigue siendo el camino más corto en cuanto a distacia, como bien podrías verificar con un flexómetro, pero en la piscina, **nadas** (pero eres más lento nadando 💀) por lo que podrías correr más rápido por uno de los otros caminos antes que nadar por el recto. Es decir, en ambos medios tienes velocidades diferentes y el parámetro que afecta esto en un material se llama el **índice de refracción** \\( n\\).
 
 Para entenderlo, imagina que estás caminando por un campo abierto y llegas a un bosque. Cuando entras en el bosque, la cantidad de árboles aumenta. Esto te obliga a cambiar un poco tu dirección y a moverte más despacio para evitar chocar con los árboles.
 
@@ -56,7 +56,7 @@ Este principio es fundamental en el diseño de lentes, prismas y otros dispositi
 
 ## Un breve ejemplo
 
-Para ejemplificar, el primer caso que se evaluó en el proyecto es el caso de un material en el que la velocidad de propagación $v$ de la luz es proporcional a la altura del material, es decir \\( v(y) \propto y\\). or lo que considerando que \\(n=c/v\\) donde $c$ es la velocidad de la luz en le vacío, estamos enfrentandonos a un material con un índice de refracción que disminuye con la altura, es decir \\(n=k/y\\) para alguna constante \\(k\\).
+Para ejemplificar, el primer caso que se evaluó en el proyecto es el caso de un material en el que la velocidad de propagación $v$ de la luz es proporcional a la altura del material, es decir \\( v(y) \propto y\\). or lo que considerando que \\(n=c/v\\) donde \\(c\\) es la velocidad de la luz en le vacío, estamos enfrentandonos a un material con un índice de refracción que disminuye con la altura, es decir \\(n=k/y\\) para alguna constante \\(k\\).
 
 Por poco intuitivo que parezca, para que la luz vaya de un punto \\( (x_0, y_0)\\) a un punto $(x_1, y_1)$, la ecuación que sigue la trayectoria de la luz es un círculo, es decir:
 
@@ -69,7 +69,7 @@ Una visualización gráfica de una de estas trayectorias, se enseña a continuac
 </p>
 
 
-(observa que el índice de refracción $n$ disminuye con la altura).
+(observa que el índice de refracción \\(n\\) disminuye con la altura).
 
 ## Conclusión
 
