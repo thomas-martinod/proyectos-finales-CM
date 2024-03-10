@@ -58,7 +58,7 @@ Este principio es fundamental en el diseño de lentes, prismas y otros dispositi
 
 Para ejemplificar, el primer caso que se evaluó en el proyecto es el caso de un material en el que la velocidad de propagación $v$ de la luz es proporcional a la altura del material, es decir \\( v(y) \propto y\\). or lo que considerando que \\(n=c/v\\) donde \\(c\\) es la velocidad de la luz en le vacío, estamos enfrentandonos a un material con un índice de refracción que disminuye con la altura, es decir \\(n=k/y\\) para alguna constante \\(k\\).
 
-Por poco intuitivo que parezca, para que la luz vaya de un punto \\( (x_0, y_0)\\) a un punto $(x_1, y_1)$, la ecuación que sigue la trayectoria de la luz es un círculo, es decir:
+Por poco intuitivo que parezca, para que la luz vaya de un punto \\( (x_0, y_0)\\) a un punto  \\( (x_1, y_1)\\), la ecuación que sigue la trayectoria de la luz es un círculo, es decir:
 
 $$ (x+A)^2 + y^2 = B $$
 
